@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **binhotcastelli/binhotcastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olá, Sou Robson Thomaz Castelli 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-castelli-0249b314b/)](https://www.linkedin.com/in/robson-castelli-0249b314b)
+
+Full-Stack Dev
