@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Olá, Sou Robson Thomaz Castelli 👋
 
-[![Linkedin Badge]](https://www.linkedin.com/in/robson-castelli-0249b314b)
+<img src="https://img.icons8.com/ios-filled/344/linkedin-circled--v4.png" width=30 height=30/> (https://www.linkedin.com/in/robson-castelli-0249b314b)
 
 Full-Stack Dev
