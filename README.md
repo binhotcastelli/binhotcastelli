@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Olá, Sou Robson Thomaz Castelli 👋
 
-<img src="https://img.icons8.com/ios-filled/344/linkedin-circled--v4.png" width=30 height=30/> (https://www.linkedin.com/in/robson-castelli-0249b314b)
+<a href="https://www.linkedin.com/in/robson-castelli-0249b314b" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/344/linkedin-circled--v4.png" width=24 height=24/>
+</a>
 
 Full-Stack Dev
