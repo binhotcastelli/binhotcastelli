@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Olá, Sou Robson Thomaz Castelli 👋
 
-Full-Stack Dev
+Full-Stack Developer
 
 ##
 
