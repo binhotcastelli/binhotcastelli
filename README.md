@@ -21,8 +21,8 @@ Full-Stack Dev
 
 <div align="left">
   <a href="https://github.com/binhotcastelli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=binhotcastelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhotcastelli&hide=css,html,blade&layout=compact&theme=dracula&bg_color=#fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=binhotcastelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhotcastelli&hide=css,html,blade&layout=compact&theme=dark&bg_color=#fff"/>
 </div>
    
 ##
